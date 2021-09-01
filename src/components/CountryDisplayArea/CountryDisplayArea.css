@@ -1,0 +1,22 @@
+#country-display-wrapper {
+    padding: 0;
+    margin: 0;
+    /* background-color: #fafafa; */
+}
+
+.all-countries-wrap {
+    width:95%;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.white {
+    background-color:  #fafafa;
+}
+
+.black {
+    background-color: black;
+}

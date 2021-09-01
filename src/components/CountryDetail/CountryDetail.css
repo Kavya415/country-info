@@ -1,0 +1,47 @@
+.country-detail-wrapper {
+  /* background-color:  #fafafa; */
+  padding: 3% 5%;
+  box-shadow: inset 0 5px 5px rgba(0,0,0,0.2);
+}
+
+.text-color-white {
+  color: white;
+}
+
+.back-button {
+  margin: 0 !important;
+}
+
+.info-wrap {
+  padding: 3% 0;
+}
+
+
+a {
+    text-decoration: none;
+    margin-right: 1%;
+  }
+
+.info-col {
+  text-align: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  padding: 3% 0;
+}
+
+.country-info-wrap {
+  padding: 5% 3%;
+  text-align: left;
+  width:90%;
+  margin:auto;
+}
+
+.btn-outline-secondary {
+  margin: 1% 1%;
+}
+
+.btn-outline-secondary:hover {
+background-color: #ffffff;
+color:#6c757d;
+}

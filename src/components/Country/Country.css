@@ -1,0 +1,13 @@
+#country-card {
+    width: 15rem;
+    margin: 2% 0;
+}
+
+.card-body {
+    padding: 0.8rem 1rem;
+    color: #000000;
+}
+
+.card-img, .card-img-top {
+    padding-top: 5%;
+}

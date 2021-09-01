@@ -1,0 +1,14 @@
+.header {
+    padding: 1%;
+    width: 95%;
+    margin: auto;
+}
+
+#title {
+    text-align: left;
+}
+
+#mode {
+    text-align: right;
+    cursor: pointer;
+}
