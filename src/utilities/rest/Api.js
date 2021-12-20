@@ -1,4 +1,4 @@
-const BASE_URL = 'https://restcountries.eu/rest/v2';
+const BASE_URL = 'https://restcountries.com/v2';
 
 
 const endPoints = {
